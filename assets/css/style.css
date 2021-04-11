@@ -85,6 +85,8 @@ body {
   background-color: rgb(226, 192, 227);
 }
 
+/* Responsive */
+
 /* Mobile and Tablet (width < 1024px)*/
 @media only screen and (max-width: 63.9375em) {
   .main__product {
